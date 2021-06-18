@@ -13,6 +13,7 @@
 		201C7BF5267C651400E5E8A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 201C7BF3267C651400E5E8A9 /* Main.storyboard */; };
 		201C7BF7267C651500E5E8A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 201C7BF6267C651500E5E8A9 /* Assets.xcassets */; };
 		201C7BFA267C651500E5E8A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 201C7BF8267C651500E5E8A9 /* LaunchScreen.storyboard */; };
+		201C7C02267C6B9000E5E8A9 /* ProfileView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 201C7C01267C6B9000E5E8A9 /* ProfileView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		201C7BF6267C651500E5E8A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		201C7BF9267C651500E5E8A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		201C7BFB267C651500E5E8A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		201C7C01267C6B9000E5E8A9 /* ProfileView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ProfileView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		201C7BEC267C651400E5E8A9 /* homework-1.2 */ = {
 			isa = PBXGroup;
 			children = (
+				201C7C01267C6B9000E5E8A9 /* ProfileView.xib */,
 				201C7BED267C651400E5E8A9 /* AppDelegate.swift */,
 				201C7BEF267C651400E5E8A9 /* SceneDelegate.swift */,
 				201C7BF1267C651400E5E8A9 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				201C7C02267C6B9000E5E8A9 /* ProfileView.xib in Resources */,
 				201C7BFA267C651500E5E8A9 /* LaunchScreen.storyboard in Resources */,
 				201C7BF7267C651500E5E8A9 /* Assets.xcassets in Resources */,
 				201C7BF5267C651400E5E8A9 /* Main.storyboard in Resources */,
