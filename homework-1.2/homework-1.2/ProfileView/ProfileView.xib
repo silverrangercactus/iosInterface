@@ -32,9 +32,9 @@
                 <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" textAlignment="justified" translatesAutoresizingMaskIntoConstraints="NO" id="JZK-wE-72B">
                     <rect key="frame" x="10" y="180" width="387" height="167"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <mutableString key="text">Эпоха ковбоев началась с 1865 года, когда нужно было согнать в угоны гигантские одичавшие стада быков, преимущественно на территории Техаса. Закончилась эта эпоха около 20 лет спустя. Ковбои работали на ранчо скотопромышленников и занимались объездом территории ранчо, ремонтом оград, поиском отбившихся от стада коров, клеймением молодняка и многим другим. Поначалу пастбища на Западе были неогороженными и очень часто скот разных хозяев смешивался и пасся вместе. Поэтому каждый год приходилось производить загон и раздел скота. Участие в таком загоне требовало от ковбоя немалой сноровки, и именно из ежегодных загонов выросло любимое развлечение ковбоев — родео.
+                    <string key="text">Эпоха ковбоев началась с 1865 года, когда нужно было согнать в угоны гигантские одичавшие стада быков, преимущественно на территории Техаса. Закончилась эта эпоха около 20 лет спустя. Ковбои работали на ранчо скотопромышленников и занимались объездом территории ранчо, ремонтом оград, поиском отбившихся от стада коров, клеймением молодняка и многим другим. Поначалу пастбища на Западе были неогороженными и очень часто скот разных хозяев смешивался и пасся вместе. Поэтому каждый год приходилось производить загон и раздел скота. Участие в таком загоне требовало от ковбоя немалой сноровки, и именно из ежегодных загонов выросло любимое развлечение ковбоев — родео.
 
-</mutableString>
+</string>
                     <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     <fontDescription key="fontDescription" type="system" pointSize="13"/>
                     <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -49,7 +49,7 @@
                 </label>
                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="smiling-cactus-cowboy-cartoon-mascot-character_188898-113" translatesAutoresizingMaskIntoConstraints="NO" id="mpe-9K-jd8">
                     <rect key="frame" x="13" y="12" width="159" height="150"/>
-                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxX="YES" heightSizable="YES" flexibleMaxY="YES"/>
+                    <autoresizingMask key="autoresizingMask"/>
                 </imageView>
             </subviews>
             <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
